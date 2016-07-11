@@ -53,3 +53,8 @@ are the following:
 * [CpdtTactics.v](KappaF/CpdtTactics.v) - The tactics library of Adam Chlipala's [Certified Programming with Dependent Types](http://adam.chlipala.net/cpdt/)
 
 * [LibTactics.v](KappaF/LibTactics.v) - The tactics library of Benjamin Pierce et al's [Software Foundations](https://www.cis.upenn.edu/~bcpierce/sf/)
+
+# License
+
+This source code is released under the
+[CRAPL](http://matt.might.net/articles/crapl/) license.
